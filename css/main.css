@@ -1,0 +1,18 @@
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+body {
+	background-color: #4d4d4d;
+}
+#header {
+	display: inline-block;
+	width: 100%;
+	height: 13%;
+	border-bottom: 5px solid #333333;
+}
+#wrapper {
+	width: 100%;
+	text-align: center;
+}
